@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verzaubert-von-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Verzaubert von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzaubert-von-dir/) |
+| **Get License** | [Commercial Licensing for Verzaubert von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzaubert-von-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c8341568922af654a1c5e11a429ad0e0c75c2b6a76612abd186e2ec8418167d` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

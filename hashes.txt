@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verzaubert von dir
+
+This log tracks the cryptographic history and versioning for the song **Verzaubert von dir** (verzaubert-von-dir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:06:49.482010 | `v1` | `4c8341568922af654a1c5e11a429ad0e0c75c2b6a76612abd186e2ec8418167d` | `c5ef48a0a2dbbdf76267be9c33d6d0cefd528ca0b3ec81e396a9dcf5a121f98b` | `2026-06-28_verzaubert-von-dir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
