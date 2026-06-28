@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verzaubert-von-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Verzaubert von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzaubert-von-dir/) |
+| **Get License** | [Official Music Licensing for Verzaubert von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzaubert-von-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mitten in der Nacht, der Bass schlägt tief, ich such' nach dir
+> Dein Blick durch den Raum, Baby, ja, ich will dich hier
+> Verzaubert von dir, ich bin lost in deiner Energy
+> Komm mit mir raus, wir schreiben heute unsre History
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
